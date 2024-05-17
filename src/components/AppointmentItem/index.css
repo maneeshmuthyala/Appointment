@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.list-item {
+  list-style-type: none;
+  margin: 15px;
+}
+.car {
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  height: 13vh;
+  justify-content: space-between;
+  border-style: solid;
+  border-color: #b5b7c4;
+  border-radius: 10px;
+  border-width: 3px;
+  width: 19vw;
+}
+.imgg {
+  height: 30px;
+  width: 30px;
+}
+.bt {
+  border-style: none;
+  height: 32px;
+  width: 32px;
+  cursor: pointer;
+  background-color: #fff;
+}
